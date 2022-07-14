@@ -3,7 +3,7 @@
 前端：Vue2全家桶+Ant Design+BootStrap，实现了移动端适配
 后端：nodejs+express+mongodb，实现了点赞，文章浏览量等功能
 
-# #启动前台项目
+# # 启动前台项目
 
 ```
 npm install
