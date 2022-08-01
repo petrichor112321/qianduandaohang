@@ -1,0 +1,26 @@
+[
+  {
+    "key": "1",
+    "title": "学习路线",
+    "path": "/home",
+    "icon": "edit"
+  },
+  {
+    "key": "2",
+    "title": "常见问题",
+    "path": "/home/techarticle",
+    "icon": "question-circle"
+  },
+  {
+    "key": "3",
+    "title": "个人项目介绍",
+    "path": "/home/project",
+    "icon": "fund"
+  },
+  {
+    "key": "4",
+    "title": "问题交流",
+    "path": "/home/questions",
+    "icon": "solution"
+  }
+]
