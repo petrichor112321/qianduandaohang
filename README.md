@@ -15,4 +15,4 @@ npm install
 npm run serve
 ```
 
-### [项目在线地址：](http://front-end.site/).
+### [项目在线地址（点击此处跳转）](http://front-end.site/)
